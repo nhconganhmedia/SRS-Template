@@ -94,6 +94,8 @@ For developers, QA engineers, and architects, a requirements taxonomy acts as a 
 
 ## Related Projects
 
+- [MySpec](https://myspec.dev) — Spec discovery engine compiling interactive developer interviews into standardized 4-file specification bundles (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`) served to AI coding agents via MCP.
+
 * [Markdown Software Design Description (MSDD)](https://github.com/jam01/SDD-Template)
 * [Markdown Architecture Decision Records (MADR)](https://adr.github.io/madr/)
 
